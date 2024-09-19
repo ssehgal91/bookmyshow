@@ -1,0 +1,1 @@
+GET http://localhost:8080/api/bookings/calculate-discounts?showId=1&ticketPrices=100.0&ticketPrices=100.0&ticketPrices=100.0&showTimes=14:00&showTimes=10:00&showTimes=18:00
