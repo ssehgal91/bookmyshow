@@ -35,7 +35,7 @@ c) Calculate Discounts: Discounts can be calculated based on the show and ticket
 -------------------------------------------------------------------------------------------
 1. Clone the repository:
 
-git clone https://github.com/your-repo/bookmyshow.git
+git clone https://github.com/ssehgal91/bookmyshow.git
 
 2. Navigate to the project directory:
 
